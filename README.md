@@ -45,25 +45,25 @@ Feel free to look at all of the code [here](https://github.com/FancyGoose08/Vill
 
 Boulder
 
-![image](https://github.com/FancyGoose08/WebGL-Build/blob/main/Images/Boulder.png)
+![image](https://github.com/FancyGoose08/Village-Sandbox-Build/blob/main/Images/Boulder.png)
 
 Trident
 
-![image](https://github.com/FancyGoose08/WebGL-Build/blob/main/Images/Trident.png)
+![image](https://github.com/FancyGoose08/Village-Sandbox-Build/blob/main/Images/Trident.png)
 
 Tomato
 
-![image](https://github.com/FancyGoose08/WebGL-Build/blob/main/Images/Tomato.png)
+![image](https://github.com/FancyGoose08/Village-Sandbox-Build/blob/main/Images/Tomato.png)
 
 Bomb
 
-![image](https://github.com/FancyGoose08/WebGL-Build/blob/main/Images/Bomb.png)
+![image](https://github.com/FancyGoose08/Village-Sandbox-Build/blob/main/Images/Bomb.png)
 
 # Village
 
 Here is an image of the village scene
 
-![image](https://github.com/FancyGoose08/WebGL-Build/blob/main/Images/Village.png)
+![image](https://github.com/FancyGoose08/Village-Sandbox-Build/blob/main/Images/Village.png)
 
 # Controls
 
