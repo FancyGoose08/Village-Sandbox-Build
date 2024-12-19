@@ -39,7 +39,7 @@ Feel free to look at all of the code [here](https://github.com/FancyGoose08/Vill
 
 # Usage
 
-[Click here to play the game!](https://fancygoose08.github.io/WebGL-Build)
+[Click here to play the game!](https://fancygoose08.github.io/Village-Sandbox-Build)
 
 # Projectiles
 
